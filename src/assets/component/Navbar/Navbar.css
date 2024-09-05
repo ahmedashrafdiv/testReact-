@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.nav p {
+    font-weight: bold;
+    font-size: 20px;
+}
+.resume button {
+    background-color: #15f0fd;
+    border: none;
+    padding: 5px 10px ;
+    color: white;
+    margin-left: 20px;
+    border-radius: 5px  ;
+}
